@@ -59,7 +59,7 @@ rubric={mechanics:20}
 </ul>
 </div>
 
-YOUR LINK HERE
+[REPO LINK](https://github.com/UBC-MDS/DSCI_541_Lab2_SG)
 
 ## Overall writing quality
 
@@ -102,7 +102,7 @@ YOUR ANSWERS HERE
 3. These are data anonymization approaches meant to protect user privacy. K-anonymity uses generalization and supression to hide a user within a crowd, while L-Diversity extends K-anonymity so that any sensitive attributes are represented multiple ways within a group to prevent re-identification.
 
 4. One weakness of k-anonymity (and l-diversity) is called Homogeneity Attack: if all k individuals in a group have the same sensitive attribute, the anonymity does not work. Attackers could use other personal information to infer individual identities, as they all differ except for the sensitive attribute.
-   👍
+
 5. Differential privacy guarantees that any malicious actors cannot tell whether or not an individual's data was included/excluded from a dataset, due to plausible deniability.
 
 6. Differential privacy works conceptually by adding specifically calibrated random noise to a dataset to ensure that any output is virtually identical, regardless of whether or not identifying information is present in that output. One flavour of this is called ε-Differential Privacy, which uses a specific Laplace mechanism for adding noise.
@@ -153,9 +153,22 @@ rubric={reasoning:100}
 
 OUTLINE SUBMITTED BY THE END OF THE LAB (if applicable)
 
-1.
+1. reasonable, to a certain extent
 
-2.
+- monetized through the user as a product (data collection for ads)
+- otherwise we would have to pay
+- ethical line: behaviour in the real world (e.g. mic/camera access), activity across other platforms
+- outsourcing to third party companies can be scummy
+- people do not read TOS, make it purposefully complicated, may be unknowingly consenting to supervision that is unethical
+- companies should be held accountable re: extent of data useage
+- there should be more transparency though about data collection and useage
+- generally, people don't care and may see data privacy as a lost cause
+
+2. depends on the utility of the service (more likely to pay for a confidential file storage or email service than a secure social media)
+
+- privacy should be available to ALL, not just those who can afford to pay a fee
+- in other cases, the user has the right to choose to sign up or participate in a service, they take on that burden for themselves
+- needs a balance between privacy and total anonymity
 
 FINAL OUTLINE
 
@@ -163,7 +176,7 @@ FINAL OUTLINE
 
 2.
 
-YOUR ANSWERS HERE
+YOUR ANSWERS HERE: Rahiq
 
 1.
 
@@ -191,9 +204,25 @@ rubric={reasoning:100}
 
 OUTLINE SUBMITTED BY THE END OF THE LAB (if applicable)
 
-1.
+1. We mentioned this in the discussion above
 
-2.
+- recommend using an abstract or bullet points in clear deconstructed language highlighting the main areas of the TOS
+- since companies are doing this on purpose, we need government regulation to enforce this contract
+- add an FAQ to the TOS or in the main webpage
+- chatbot to ask a question about the TOS
+
+2. Depends on the exact service, some are definitely non-necessary for existence in modern society (YouTube, TikTok)
+
+- some are pretty much essential like LinkedIn or an email service, can limit the amount of information you give them and be more mindful with your online footprint
+- there is some individual responsibility though
+
+3. None of these are reasonable or necessary to track offline behaviour (recording voice is not necessary and all parties should be informed)
+
+- the issue with meta glasses is that it is much easier to hide the filming behaviour versus filming in public with a phone
+- also individuals are much harder to hold accountable versus a company like Amazon allowing voice recordings
+- in general, consent from all individuals (being recorded for a street interview, friends coming over) should be involved
+- recording people in their homes is undoubtedly a bigger invasion of privacy compared to collecting data in public
+- using WiFi signals is a purposefully invasive method of using WiFi (unrelated to its intended purpose) so this is undoubtedly unethical and malicious
 
 FINAL OUTLINE
 
@@ -201,7 +230,7 @@ FINAL OUTLINE
 
 2.
 
-YOUR ANSWERS HERE
+YOUR ANSWERS HERE: Amanpreet
 
 1.
 
@@ -227,9 +256,24 @@ rubric={reasoning:100}
 
 OUTLINE SUBMITTED BY THE END OF THE LAB (if applicable)
 
-1.
+1. It is fair game to scrape publicly available information from the internet and then facilitate querying
 
-2.
+- this is where the accountability of the individual comes into play, where we assume all public information has been freely provided by the user
+- long term data availability could become a concern as information on someone could become outdated and potentially be used against you, so perhaps easily queryed data should be limited to a certain time frame
+- still fair game to scrape from a logged in account and make it accessible otherwise, assuming they are not set to private
+
+2. Facial recognition is not free from the bias of its training data and specifically with law enforcement it is much more likely to find POC guilty of a crime compared to white people or to confuse racialized faces
+
+- the consequences of a false alarm with this technology far outweigh the benefits
+- also publically available facial datasets (trained on illegally scraped data) are questionable at all levels
+- the secretive nature of it also makes it unethical
+- on the flipside, it could be highly accurate and prevent future harm and speed up investigation
+- could be used as a starting point to narrow down suspects rather than a convicting technology
+
+3. it should be regulated, but it was fair to store data that was publicly scraped (the issue here is the data was illegally scraped)
+
+- have to take benefits and consequences into consideration
+- if Clearview is being used in criminal proceedings, there needs to be FULL transparency and the process/data used should be released to a court or legal team upon request
 
 FINAL OUTLINE
 
@@ -237,7 +281,7 @@ FINAL OUTLINE
 
 2.
 
-YOUR ANSWERS HERE
+YOUR ANSWERS HERE: Sean
 
 1.
 
@@ -264,7 +308,7 @@ rubric={reasoning:20}
 
 </div>
 
-YOUR ANSWERS HERE
+YOUR ANSWERS HERE: Victoria
 
 1.
 
