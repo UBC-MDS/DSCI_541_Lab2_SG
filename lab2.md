@@ -314,7 +314,7 @@ YOUR ANSWERS HERE: Victoria
 
 2. The privacy-utility tradeoff refers to the balancing act done between protecting private information and maintaining the utility of a dataset. This balance is determined by the chosen epsilon value: low epsilon = high noise and privacy, high epsilon = low noise and privacy. The figure in the notebook visually demonstrates this tradeoff with an elbow curve where small values of epsilon are associated with higher percentage error (and vice versa) with a steep drop off at around eps = 0.1, indicating the ideal epsilon value at the 'elbow' of the function. The size of the data matters because it determines how resilient it is to noise being injected into it, meaning changes in epsilon are likely to affect smaller datasets more than larger datasets.
 
-3. We liked working through the notebook, the mix of code and explanations worked well for our levels of experience with both differential privacy and Laplace smoothing mechanisms. We appreciated being able to see the formulas involved and the explanation about how a malicious actor could infer/calculate private salaries before and after DP. Seeing code from actual implementations of DP was definitely helpful, and interesting! No real critique,
+3. We liked working through the notebook, the mix of code and explanations worked well for our levels of experience with both differential privacy and Laplace smoothing mechanisms. We appreciated being able to see the formulas involved and the explanation about how a malicious actor could infer/calculate private salaries before and after DP. Seeing code from actual implementations of DP was definitely helpful, and interesting! No real critique.
 
 ---
 
