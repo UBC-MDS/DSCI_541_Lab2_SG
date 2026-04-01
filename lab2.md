@@ -283,11 +283,11 @@ FINAL OUTLINE
 
 YOUR ANSWERS HERE: Sean
 
-1.
+1. Our team established that any information that has been published on the internet no longer has any right to privacy, and therefore, we believe it is fair game to scrape such information and facilitate queries on it. However, we do recognize that there are some concerns with making such data easier to access and query. We proposed the idea of limiting queryable data to a certain time frame so that outdated information that could potentially be used against someone is not easily accessible. However, we recognize that establishing a specific time frame is difficult and may not be possible. Therefore, we concluded that any data is fair game to scrape and query, no matter the date or the platform (whether it requires an account), as long as it was public at the time of scraping.
 
-2.
+2. Overall, there are many ethical concerns with facial recognition technology, especially when it is being used within the justice system. One of the main concerns is that facial recognition technology is highly susceptible to bias, especially racial bias. Potentially, this software is more likely to identify people of colour as having committed a crime than white people. Although there are benefits to software such as Clearview, we feel that, at this point in time, the negatives of such software outweigh the positives. Specifically, the consequences of false positives can cause serious harm to innocent individuals. Other concerns we brought up include how the data was scraped, as there have been allegations of illegally acquired data. Overall, we do recognize that this technology can be used to prevent future harm and speed up investigations. However, we feel that it should only be used as a starting point, and not used to convict individuals of crimes by any means.
 
-3.
+3. We feel that regulation is crucial in the use of facial recognition technology. Governmental and consumer protection agencies should be established and made responsible for regulating data use and protecting individuals' privacy. As established previously, any data that is public at the time of scraping should be fair game to store and use. Therefore, although giving users the option for their data to be "forgotten" would be ideal, we believe that this is not feasible. Staying consistent with our previous answer, once data is public, there is no right for it to be forgotten. Education is highly important in this area, and users should be educated from a young age about their digital footprint and how to protect their privacy online. In the case of facial recognition technology, we feel that transparency is key. If software such as Clearview is being used in the justice system, there needs to be full transparency, and the process and data used should be released to a court or legal team upon request.
 
 ## Question 2.4 (Challenging)
 
