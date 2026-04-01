@@ -178,9 +178,11 @@ FINAL OUTLINE
 
 YOUR ANSWERS HERE: Rahiq
 
-1.
+1. We think it's reasonable for companies to collect data in exchange for their services, to a certain extent. If we didn't let them monetize us as a product through ads and data collection, we'd probably have to pay for everything we use online. That said, there's definitely an ethical line, like when companies access your mic or camera, track your activity across completely unrelated platforms, or sell your data to third parties without being upfront about it. The bigger issue is that most people don't read the Terms of Service, and honestly, companies kind of count on that since they make them intentionally complicated. There needs to be way more transparency and accountability around how far data collection actually goes.
 
-2.
+
+2. As for paying for privacy, it really depends on the service. We’d be more willing to pay for something like a private email or confidential file storage than for a "secure" social media platform, just because the stakes feel higher when it comes to sensitive personal information. That said, we don't think privacy should only be available to people who can afford a premium subscription, it should be a right that's regulated and accessible to everyone. At the same time, when someone chooses to sign up for a free service, they're taking on some responsibility for that trade-off themselves. The goal should be finding a balance between protecting people's privacy and still letting services function without requiring total anonymity.
+
 
 ## Question 2.2 -- Technology and privacy
 
