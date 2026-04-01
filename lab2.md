@@ -180,9 +180,7 @@ YOUR ANSWERS HERE: Rahiq
 
 1. We think it's reasonable for companies to collect data in exchange for their services, to a certain extent. If we didn't let them monetize us as a product through ads and data collection, we'd probably have to pay for everything we use online. That said, there's definitely an ethical line, like when companies access your mic or camera, track your activity across completely unrelated platforms, or sell your data to third parties without being upfront about it. The bigger issue is that most people don't read the Terms of Service, and honestly, companies kind of count on that since they make them intentionally complicated. There needs to be way more transparency and accountability around how far data collection actually goes.
 
-
 2. As for paying for privacy, it really depends on the service. We’d be more willing to pay for something like a private email or confidential file storage than for a "secure" social media platform, just because the stakes feel higher when it comes to sensitive personal information. That said, we don't think privacy should only be available to people who can afford a premium subscription, it should be a right that's regulated and accessible to everyone. At the same time, when someone chooses to sign up for a free service, they're taking on some responsibility for that trade-off themselves. The goal should be finding a balance between protecting people's privacy and still letting services function without requiring total anonymity.
-
 
 ## Question 2.2 -- Technology and privacy
 
@@ -239,7 +237,6 @@ YOUR ANSWERS HERE: Amanpreet
 2. We believe that it depends on the exact services since there are essential service and there are non-essential services. Some examples of essential services are email platforms such as Gmail and Job Search platforms such as LinkedIn. We are in a time where without these essential services, you are put in a disadvantage in society, for example, you lose the opportunity to get instant mail conveniently; that email could have been a job offer but since you don't have an email for the sake of online privacy, you could potentially lose that opportunity because you didn't reply on time. For the LinkedIn example, it is similar since most job listings are posted on that platform, so without it, you are losing out on many potential job opportunities. However services like TikTok and Instagram are a choice and non-essential so it is perfectly reasonable to opt out of using a service such as that. Even with using these platforms, we can take steps in reducing our digital footprint and being mindful of what you share on social media and there are ways to limit the amount of information you share to these platforms.
 
 3. We believe that none of these forms of data collection outside of an online environment are reasonable or even necessary for example there is no need to record one's voice in their own home through an Amazon Echo without their consent; people are sharing enough information through social media platforms and other services online already. Also about friends coming over and informing them about the potential for an Amazon Echo recording their voice is not something that should be normalized. We believe that such devices should only be able to record your voice when prompted to through a voice command. About meta glasses and recording in public, although it is legal to record people in public, we believe that it is different when it comes to meta glasses because it is so much easier to hide the fact that you are recording in public; one can be recording someone without their knowing with malicious intent. Also it is harder to hold an individual accountable for recording without consent compared to a big company such as Amazon. We believe that it is common practice to ask for constent before directly recording someone such as recording someone in public for a street interview. As it is techinically legal to record someone in public, it is a much bigger concern when it comes to recording people in their own homes through devices such as WiFi signals from a router; using a router's WiFi signals to record someone is purposeful and not a main use case of that device so we believe that it comes with malicious intent and is highly unethical.
-
 
 ## Question 2.3 -- Scraping data and facial recognition software
 
@@ -313,9 +310,11 @@ rubric={reasoning:20}
 
 YOUR ANSWERS HERE: Victoria
 
-1.
+1. The salary printed for the new employee is different when using differential privacy because (as a FEATURE of differential privacy) the true salary amounts are obfuscated with noise when differentially private. This is done on purpose to protect private information (the new employee's salary in this case), whereas without using DP methods the exact salary can be calculated by subtracting the averaged means before and after the new employee joined.
 
-2.
+2. The privacy-utility tradeoff refers to the balancing act done between protecting private information and maintaining the utility of a dataset. This balance is determined by the chosen epsilon value: low epsilon = high noise and privacy, high epsilon = low noise and privacy. The figure in the notebook visually demonstrates this tradeoff with an elbow curve where small values of epsilon are associated with higher percentage error (and vice versa) with a steep drop off at around eps = 0.1, indicating the ideal epsilon value at the 'elbow' of the function. The size of the data matters because it determines how resilient it is to noise being injected into it, meaning changes in epsilon are likely to affect smaller datasets more than larger datasets.
+
+3. We liked working through the notebook, the mix of code and explanations worked well for our levels of experience with both differential privacy and Laplace smoothing mechanisms. We appreciated being able to see the formulas involved and the explanation about how a malicious actor could infer/calculate private salaries before and after DP. Seeing code from actual implementations of DP was definitely helpful, and interesting! No real critique,
 
 ---
 
